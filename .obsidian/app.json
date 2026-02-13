@@ -1,0 +1,16 @@
+{
+  "uriCallbacks": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "focusNewTab": true,
+  "newLinkFormat": "relative",
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
