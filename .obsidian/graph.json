@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -34,14 +34,21 @@
         "a": 1,
         "rgb": 14944110
       }
+    },
+    {
+      "query": "path:\"Metodos HTTP\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65369
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 0.1,
+  "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.43466257668712,
   "lineSizeMultiplier": 1.67024539877301,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.524790284211844,
   "repelStrength": 10.5746838612746,
   "linkStrength": 1,
