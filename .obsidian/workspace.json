@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c46ef0178f5670",
+        "id": "f648072f3f3e1b51",
         "type": "tabs",
         "children": [
           {
-            "id": "206de83c34012078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/Pai-filho.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pai-filho"
-            }
-          },
-          {
-            "id": "6622a6c099b02f25",
+            "id": "4ddfa0c949698de3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -41,8 +17,7 @@
               "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +176,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6622a6c099b02f25",
+  "active": "4ddfa0c949698de3",
   "lastOpenFiles": [
+    "TRAB REBECCA.md",
+    "AC.md",
+    "Angular/coisas pra estudar em angular.md",
     "Angular/Pai-filho.md",
+    "Angular/pegar Input.md",
+    "Angular/oque é.md",
     "Angular/Metodos de array.canvas",
+    "N8N/como rodar no meu note.md",
+    "Sem título",
+    "N8N",
     "Sem título.base"
   ]
 }
