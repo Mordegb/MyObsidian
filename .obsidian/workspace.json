@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f648072f3f3e1b51",
+        "id": "4a9e8144f76846e5",
         "type": "tabs",
         "children": [
           {
-            "id": "4ddfa0c949698de3",
+            "id": "2bab58bed4892036",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -176,10 +176,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4ddfa0c949698de3",
+  "active": "6eea6b3a8a7e158a",
   "lastOpenFiles": [
-    "TRAB REBECCA.md",
+    "Formas.md",
     "AC.md",
+    "TRAB REBECCA.md",
     "Angular/coisas pra estudar em angular.md",
     "Angular/Pai-filho.md",
     "Angular/pegar Input.md",
