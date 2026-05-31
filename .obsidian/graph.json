@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"estrutura de dados\" ",
@@ -34,6 +34,27 @@
         "a": 1,
         "rgb": 14944110
       }
+    },
+    {
+      "query": "path:\"Metodos HTTP\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3339629
+      }
+    },
+    {
+      "query": "path:n8n  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711880
+      }
+    },
+    {
+      "query": "path:aws  ",
+      "color": {
+        "a": 1,
+        "rgb": 16288269
+      }
     }
   ],
   "collapse-display": true,
@@ -41,11 +62,11 @@
   "textFadeMultiplier": 0.1,
   "nodeSizeMultiplier": 1.43466257668712,
   "lineSizeMultiplier": 1.67024539877301,
-  "collapse-forces": false,
-  "centerStrength": 0.524790284211844,
+  "collapse-forces": true,
+  "centerStrength": 0.541580041580042,
   "repelStrength": 10.5746838612746,
   "linkStrength": 1,
   "linkDistance": 207,
-  "scale": 0.6757381672622808,
+  "scale": 0.6683369873023576,
   "close": true
 }

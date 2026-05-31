@@ -1,0 +1,2 @@
+- estudar os sistemas de aws
+  - aws S3

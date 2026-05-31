@@ -8,16 +8,147 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bab58bed4892036",
+            "id": "89767ffaee83ba1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "87a66aca5962318e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/Content-Type e Accept.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Content-Type e Accept"
+            }
+          },
+          {
+            "id": "1a8eb756ae605531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/Content-Type e Accept.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Content-Type e Accept"
+            }
+          },
+          {
+            "id": "e54512b5cc78dd6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "n8n/Ideias de automação.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ideias de automação"
+            }
+          },
+          {
+            "id": "ed2f80d8764bd0e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/coisas pra estudar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "coisas pra estudar"
+            }
+          },
+          {
+            "id": "09bf66744b59b2d3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "b9fa723e60a47524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/AWS S3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AWS S3"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -176,18 +307,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6eea6b3a8a7e158a",
+  "active": "b9fa723e60a47524",
   "lastOpenFiles": [
+    "aws/AWS S3.md",
+    "aws/coisas pra estudar.md",
+    "aws",
+    "n8n/Ideias de automação.md",
+    "Angular/Content-Type e Accept.md",
+    "Angular/Headers.md",
+    "n8n/MINHA API NASA.md",
+    "n8n/rodar o ngrok com n8n.md",
+    "Angular/pegar Input.md",
+    "Metodos HTTP/PUT.md",
+    "n8n",
+    "TRAB REBECCA.md",
     "Formas.md",
     "AC.md",
-    "TRAB REBECCA.md",
     "Angular/coisas pra estudar em angular.md",
     "Angular/Pai-filho.md",
-    "Angular/pegar Input.md",
     "Angular/oque é.md",
     "Angular/Metodos de array.canvas",
     "N8N/como rodar no meu note.md",
-    "Sem título",
     "N8N",
     "Sem título.base"
   ]
