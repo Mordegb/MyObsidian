@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a9e8144f76846e5",
+        "id": "a12a4cf2b480ad9c",
         "type": "tabs",
         "children": [
           {
-            "id": "89767ffaee83ba1d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "87a66aca5962318e",
+            "id": "ddf66f80f747d22c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Content-Type e Accept.md",
+                "file": "AC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,117 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Content-Type e Accept"
-            }
-          },
-          {
-            "id": "1a8eb756ae605531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/Content-Type e Accept.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Content-Type e Accept"
-            }
-          },
-          {
-            "id": "e54512b5cc78dd6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "n8n/Ideias de automação.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ideias de automação"
-            }
-          },
-          {
-            "id": "ed2f80d8764bd0e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aws/coisas pra estudar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "coisas pra estudar"
-            }
-          },
-          {
-            "id": "09bf66744b59b2d3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "b9fa723e60a47524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aws/AWS S3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AWS S3"
+              "title": "AC"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,16 +164,26 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "47503a6b03aa1a8f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 491.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,13 +195,16 @@
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir importador Markdown": false,
       "bases:Criar nova base": true,
-      "pdf-plus:PDF++: Toggle auto-copy": true,
-      "pdf-plus:PDF++: Toggle auto-focus": true,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9fa723e60a47524",
+  "active": "ddf66f80f747d22c",
   "lastOpenFiles": [
+    "Angular/Metodos de array.canvas",
+    "Angular/metodo-arrays/FIND.md",
     "aws/AWS S3.md",
     "aws/coisas pra estudar.md",
     "aws",
@@ -326,7 +222,6 @@
     "Angular/coisas pra estudar em angular.md",
     "Angular/Pai-filho.md",
     "Angular/oque é.md",
-    "Angular/Metodos de array.canvas",
     "N8N/como rodar no meu note.md",
     "N8N",
     "Sem título.base"

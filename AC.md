@@ -12,6 +12,7 @@ N2 = (AV1 +AV2 + Trabalho)/3
 18/6: TRABALHO
 23/6: AV2
 25/6 Recuperação  segunda chamada
+sjnsjns
 
 BIBLIOGRAFIA:
 - Organização e projetos de computadores: Patterson

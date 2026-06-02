@@ -1,4 +1,5 @@
 {
   "nativeMenus": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
 }
