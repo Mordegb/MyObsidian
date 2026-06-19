@@ -2,5 +2,6 @@
 #### ![[../imgs/Pasted image 20260203094533.png]]
 #### e voçe pode simplismente usar o sistemas de children dele
 
+
 #### o sistema de children funcionando:
 #### ![[../imgs/Pasted image 20260203100244.png]]

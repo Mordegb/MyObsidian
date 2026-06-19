@@ -26,16 +26,6 @@
 			"color":"3"
 		},
 		{
-			"id":"42a6535ca8320539",
-			"type":"text",
-			"text":"[[Angular/metodo-arrays/FILTER|FILTER]]\n\ncria um novo array filtrando um array original com o parametro que for colocado nele.",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-752,
-			"y":-246,
-			"width":257,
-			"height":185
-		},
-		{
 			"id":"14f7507d2990e288",
 			"type":"text",
 			"text":"##### filtragem ,mudança, e captura de dados",
@@ -105,6 +95,16 @@
 			"y":249,
 			"width":309,
 			"height":164
+		},
+		{
+			"id":"42a6535ca8320539",
+			"type":"text",
+			"text":"[[Angular/metodo-arrays/FILTER|FILTER]]\n\ncria um novo array filtrando um array original com o parametro que for colocado nele.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-752,
+			"y":-258,
+			"width":257,
+			"height":185
 		}
 	],
 	"edges":[
