@@ -1,0 +1,24 @@
+body {
+    --background-primary: transparent !important; 
+    
+    /* Deixa as abas laterais transparentes */
+    --background-secondary: transparent !important;
+    --background-secondary-alt: transparent !important;
+    
+    /* Deixa a barra de título e a área das abas lá em cima transparentes */
+    --titlebar-background: transparent !important;
+    --titlebar-background-focused: transparent !important;
+    --tab-container-background: transparent !important;
+    
+    /* Remove a linha divisória entre os painéis para um visual mais limpo */
+    --background-modifier-border: rgba(61, 60, 60, 0.6) !important; 
+    /* --background-modifier-border: transparent !important;  */
+    
+    /* Garante que o fundo da janela como um todo seja o vidro escuro */
+    background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+/* Força a barra de ferramentas mais à esquerda (onde ficam os ícones) a ficar transparente */
+.workspace-ribbon.mod-left {
+    background-color: transparent !important;
+}

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c75383ad8e8eb511",
+            "id": "6a8b2e3361ea5e11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/service.md",
+                "file": "fd.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "service"
+              "title": "fd"
             }
           },
           {
@@ -211,10 +211,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c75383ad8e8eb511",
+  "active": "6a8b2e3361ea5e11",
   "lastOpenFiles": [
-    "Angular/basic-comands.md",
+    "2026-06-20.md",
+    "fd 2.md",
+    "fd.md",
+    "Metodos HTTP/PUT.md",
+    "Metodos HTTP/PATCH.md",
     "Angular/service.md",
+    "Angular/basic-comands.md",
     "Angular/Headers.md",
     "Angular/Content-Type e Accept.md",
     "git/Boas praticas de commit.md",
@@ -231,7 +236,6 @@
     "n8n/MINHA API NASA.md",
     "n8n/rodar o ngrok com n8n.md",
     "Angular/pegar Input.md",
-    "Metodos HTTP/PUT.md",
     "n8n",
     "TRAB REBECCA.md",
     "Formas.md",

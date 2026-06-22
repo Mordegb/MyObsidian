@@ -2,5 +2,10 @@
   "nativeMenus": true,
   "baseFontSizeAction": true,
   "theme": "obsidian",
-  "showRibbon": true
+  "showRibbon": true,
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "fundo-transparente"
+  ],
+  "showViewHeader": true
 }
