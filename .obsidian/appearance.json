@@ -3,9 +3,11 @@
   "baseFontSizeAction": true,
   "theme": "obsidian",
   "showRibbon": true,
-  "cssTheme": "Border",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "fundo-transparente"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "accentColor": "#707bc2",
+  "baseFontSize": 15
 }

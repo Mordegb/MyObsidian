@@ -1,0 +1,16 @@
+- introdução
+	- marina
+- estrutura da hieraquia de memorias
+	- davi
+- comparação entre os niveis
+	- davi
+- memorai cache
+	- marina
+	- davi
+- aplicações praticas
+	- cadu e dan 
+- conclusão
+	- cadu
+	- daniel
+- trancrição
+	- daniel
