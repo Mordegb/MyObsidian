@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc9977bc8915fdf3",
+        "id": "3f37b218e35ed6fc",
         "type": "tabs",
         "children": [
           {
-            "id": "811a0a1c805c8794",
+            "id": "9c47042bad643cfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AC/Resolução da AV2-N2.md",
+                "file": "git/Boas praticas de commit.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Resolução da AV2-N2"
-            }
-          },
-          {
-            "id": "b71865f6b4ccc565",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Boas praticas de commit"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,24 +201,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b71865f6b4ccc565",
+  "active": "9c47042bad643cfe",
   "lastOpenFiles": [
+    "Metodos HTTP/PATCH.md",
     "AC/Resolução da AV2-N2.md",
-    "AC/DATAS IMPORTANTES.md",
-    "AC/Conclusão.md",
-    "AC/assuntos para o trabalho.md",
+    "QA/Playright",
+    "QA",
     "AC/Aplicações praticas.md",
+    "AC/assuntos para o trabalho.md",
+    "AC/Conclusão.md",
+    "AC/DATAS IMPORTANTES.md",
+    "git/Boas praticas de commit.md",
+    "Final IAA.md",
+    "Formas.md",
+    "fd.md",
+    "imgs/Pasted image 20260701144239.png",
+    "TRAB REBECCA.md",
     "Angular/Content-Type e Accept.md",
     "Angular/Metodos de array.canvas",
-    "Metodos HTTP/PATCH.md",
     "Angular/metodo-arrays/MAP.md",
-    "git/Boas praticas de commit.md",
     "Aplicações praticas 1.md",
     "Angular/service.md",
     "Angular/metodo-arrays/FIND INDEX.md",
-    "fd.md",
-    "Formas.md",
-    "TRAB REBECCA.md",
     "1782342308681244617.png",
     "Angular/metodo-arrays/EVERY.md",
     "AV2 N2.pdf",
@@ -244,7 +237,6 @@
     "Angular/Headers.md",
     "Angular/Pai-filho.md",
     "Lazyvim",
-    "Angular/metodo-arrays/FIND.md",
     "aws",
     "n8n",
     "N8N"
