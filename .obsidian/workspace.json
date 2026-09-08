@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c47042bad643cfe",
+            "id": "62a59f9210ec13cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Boas praticas de commit.md",
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sem título"
+            }
+          },
+          {
+            "id": "c1128fefc244fcba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceitos para estudar.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boas praticas de commit"
+              "title": "Conceitos para estudar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +76,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -201,44 +228,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c47042bad643cfe",
+  "active": "d8744c5a65c43e9a",
   "lastOpenFiles": [
+    "Formas.md",
+    "Sem título.md",
+    "mcmp2.md",
+    "MCMP.md",
+    "mcmp2",
+    "n8n/rodar o ngrok com n8n.md",
+    "n8n/MINHA API NASA.md",
+    "n8n/Ideias de automação.md",
+    "Angular/metodo-arrays/MAP.md",
+    "git/Boas praticas de commit.md",
+    "Angular/Pai-filho.md",
+    "Angular/Metodos de array.canvas",
+    "ideas/gerenciador de anotações.md",
+    "ideas",
+    "Conceitos para estudar.md",
+    "fd.md",
+    "Angular/Pegar especifidades de json.md",
+    "Angular/service.md",
+    "Angular/pegar Input.md",
+    "git/Git commands for beginners.md",
+    "Angular/oque é.md",
+    "Angular/Headers.md",
+    "Angular/Content-Type e Accept.md",
+    "Angular/coisas pra estudar em angular.md",
+    "Angular/basic-comands.md",
     "Metodos HTTP/PATCH.md",
     "AC/Resolução da AV2-N2.md",
     "QA/Playright",
     "QA",
     "AC/Aplicações praticas.md",
     "AC/assuntos para o trabalho.md",
-    "AC/Conclusão.md",
-    "AC/DATAS IMPORTANTES.md",
-    "git/Boas praticas de commit.md",
-    "Final IAA.md",
-    "Formas.md",
-    "fd.md",
     "imgs/Pasted image 20260701144239.png",
-    "TRAB REBECCA.md",
-    "Angular/Content-Type e Accept.md",
-    "Angular/Metodos de array.canvas",
-    "Angular/metodo-arrays/MAP.md",
-    "Aplicações praticas 1.md",
-    "Angular/service.md",
-    "Angular/metodo-arrays/FIND INDEX.md",
     "1782342308681244617.png",
-    "Angular/metodo-arrays/EVERY.md",
     "AV2 N2.pdf",
     "Sem título.base",
-    "React/Criar um projeto React.md",
     "AC",
-    "Lazyvim/Keybinds.md",
-    "2026-06-20.md",
-    "fd 2.md",
-    "Metodos HTTP/PUT.md",
-    "Angular/basic-comands.md",
-    "Angular/Headers.md",
-    "Angular/Pai-filho.md",
     "Lazyvim",
     "aws",
-    "n8n",
-    "N8N"
+    "n8n"
   ]
 }
