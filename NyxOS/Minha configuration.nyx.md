@@ -6,6 +6,8 @@
 
 # abaixo esta toda minha configuração do arquivo configuration.nyx:
 
+## para atualizar: sudo nixos-rebuild switch
+
 
 
 { config, pkgs, ... }:
@@ -85,21 +87,31 @@
   # Enable touchpad support (enabled default in most desktopManager).
   # services.libinput.enable = true;
 
+   
   # Define a user account. Don't forget to set a password with ‘passwd’.
   users.users."cadu" = {
     isNormalUser = true;
     description = "Carlos Edurado";
     extraGroups = [ "networkmanager" "wheel" ];
+    shell = pkgs.fish;
     packages = with pkgs; [
     #  thunderbird
     ];
   };
+
+
+  programs.fish.enable = true;
 
   # Install firefox.
   programs.firefox.enable = true;
 
   # Allow unfree packages
   nixpkgs.config.allowUnfree = true;
+
+  #fontes bonitinhas
+ fonts.packages = with pkgs; [
+    nerd-fonts.jetbrains-mono
+  ];
 
   # List packages installed in system profile. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   # You can use https://search.nixos.org/ to find more packages (and options).
@@ -114,6 +126,8 @@
      pkgs.corepack
      pkgs.typescript
      pkgs.typescript-language-server
+     pkgs.fastfetch
+     pkgs.kitty 
    ];
 
   # Some programs need SUID wrappers, can be configured further or are
