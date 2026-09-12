@@ -1,12 +1,10 @@
 {
   "nativeMenus": true,
   "baseFontSizeAction": true,
-  "theme": "obsidian",
+  "theme": "system",
   "showRibbon": true,
   "cssTheme": "",
-  "enabledCssSnippets": [
-    "fundo-transparente"
-  ],
+  "enabledCssSnippets": [],
   "showViewHeader": true,
   "accentColor": "#707bc2",
   "baseFontSize": 14
