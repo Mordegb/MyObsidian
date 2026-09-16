@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "897def27cac9ca70",
+            "id": "62a59f9210ec13cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Content-Type e Accept.md",
+                "file": "Sem título.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,45 +28,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Content-Type e Accept"
+              "title": "Sem título"
             }
           },
           {
-            "id": "4f280482029a679a",
+            "id": "c1128fefc244fcba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "e24c4c631675ab22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "NyxOS/Minha configuration.nyx.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Minha configuration.nyx"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#your",
+                "query": "path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,8 +101,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,6 +115,24 @@
         "id": "11655bc0b2b2d773",
         "type": "tabs",
         "children": [
+          {
+            "id": "2757328b1a617d65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
           {
             "id": "e3de13f36ae61ced",
             "type": "leaf",
@@ -197,28 +194,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "2b1502cd1b0b38d9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "NyxOS/Minha configuration.nyx.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Links inversos"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -234,27 +212,20 @@
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir importador Markdown": false,
       "bases:Criar nova base": true,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0dbd3409db37cf7e",
+  "active": "c1128fefc244fcba",
   "lastOpenFiles": [
-    "Angular/Content-Type e Accept.md",
     "NyxOS/Minha configuration.nyx.md",
-    "Angular/coisas pra estudar em angular.md",
-    "Angular/basic-comands.md",
-    "AC/Conclusão.md",
     "NyxOS",
-    "AC/Resolução da AV2-N2.md",
-    "AC/DATAS IMPORTANTES.md",
-    "AC/assuntos para o trabalho.md",
-    "AC/Aplicações praticas.md",
-    "Formas.md",
+    "INFO LATTES.md",
     "Sem título.md",
     "Conceitos para estudar.md",
+    "Formas.md",
     "mcmp2.md",
     "MCMP.md",
     "mcmp2",
@@ -272,6 +243,13 @@
     "Angular/service.md",
     "Angular/pegar Input.md",
     "git/Git commands for beginners.md",
+    "Angular/oque é.md",
+    "Angular/Headers.md",
+    "Angular/Content-Type e Accept.md",
+    "Angular/coisas pra estudar em angular.md",
+    "Angular/basic-comands.md",
+    "Metodos HTTP/PATCH.md",
+    "AC/Resolução da AV2-N2.md",
     "QA/Playright",
     "QA",
     "imgs/Pasted image 20260701144239.png",
