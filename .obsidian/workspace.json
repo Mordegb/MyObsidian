@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AC/Conclusão.md",
-                "mode": "preview",
+                "file": "Angular/Content-Type e Accept.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Conclusão"
+              "title": "Content-Type e Accept"
+            }
+          },
+          {
+            "id": "4f280482029a679a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           },
           {
@@ -56,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:",
+                "query": "tag:#your",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +121,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,10 +240,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e24c4c631675ab22",
+  "active": "0dbd3409db37cf7e",
   "lastOpenFiles": [
-    "AC/Conclusão.md",
+    "Angular/Content-Type e Accept.md",
     "NyxOS/Minha configuration.nyx.md",
+    "Angular/coisas pra estudar em angular.md",
+    "Angular/basic-comands.md",
+    "AC/Conclusão.md",
     "NyxOS",
     "AC/Resolução da AV2-N2.md",
     "AC/DATAS IMPORTANTES.md",
@@ -241,7 +255,6 @@
     "Formas.md",
     "Sem título.md",
     "Conceitos para estudar.md",
-    "Angular/Content-Type e Accept.md",
     "mcmp2.md",
     "MCMP.md",
     "mcmp2",
@@ -259,8 +272,6 @@
     "Angular/service.md",
     "Angular/pegar Input.md",
     "git/Git commands for beginners.md",
-    "Angular/oque é.md",
-    "Angular/Headers.md",
     "QA/Playright",
     "QA",
     "imgs/Pasted image 20260701144239.png",
