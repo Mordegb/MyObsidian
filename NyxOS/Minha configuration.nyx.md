@@ -73,6 +73,7 @@ in
   boot.loader.grub.useOSProber = true;
   # Use provided UUIDs instead of blkid probing (required for btrfs subvolumes)
   boot.loader.grub.fsIdentifier = "provided";
+  powerManagement.cpuFreqGovernor = "performance";
 
   networking.hostName = "nixos"; # Define your hostname.
   # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
@@ -177,7 +178,7 @@ in
     pkgs.kitty
     pkgs.flutter
 
-	#///tudo aq pro neovim
+    #///tudo aq pro neovim
     pkgs.neovim        # editor base
     pkgs.ripgrep        # busca usada pelo Telescope/LazyVim
     pkgs.fd             # busca de arquivos
@@ -185,7 +186,16 @@ in
     pkgs.unzip         
     pkgs.lazygit   
     pkgs.tree-sitter
-       #/// aq termina pro neovim
+    #/// aq termina pro neovim
+       
+       
+    #/// para o gnome
+    pkgs.gnomeExtensions.blur-my-shell
+    pkgs.gnome-extension-manager
+    pkgs.gnome-tweaks 
+    pkgs.gnomeExtensions.top-bar-organizer
+    pkgs.gnomeExtensions.quick-settings-tweaker
+    pkgs.gnomeExtensions.desktop-cube
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
