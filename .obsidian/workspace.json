@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06d545d00365384e",
+        "id": "37962d35a0f06177",
         "type": "tabs",
         "children": [
           {
-            "id": "5689d707c8d832df",
+            "id": "d42c7d4bfb26a1ac",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -198,11 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5689d707c8d832df",
+  "active": "d42c7d4bfb26a1ac",
   "lastOpenFiles": [
+    "planos de estudos/python.md",
     "registro-de-viewers.md",
-    "Conceitos para estudar.md",
     "Formas.md",
+    "Conceitos para estudar.md",
     "ATC2.md",
     "Sem título.md",
     "pibic/maquibas.md",
@@ -231,7 +232,6 @@
     "Angular/Pegar especifidades de json.md",
     "Angular/service.md",
     "Angular/pegar Input.md",
-    "git/Git commands for beginners.md",
     "QA/Playright",
     "QA",
     "imgs/Pasted image 20260701144239.png",
