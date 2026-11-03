@@ -4,8 +4,10 @@
   "theme": "system",
   "showRibbon": true,
   "cssTheme": "",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "fundo-transparente"
+  ],
   "showViewHeader": true,
   "accentColor": "#707bc2",
-  "baseFontSize": 14
+  "baseFontSize": 12
 }
